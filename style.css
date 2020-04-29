@@ -1,0 +1,51 @@
+<style>
+  h1 {
+    font-size: 40px;
+    margin: auto;
+  }
+  body{
+    background: #ccfffc;
+     margin-top: 100px;
+  }
+  
+smaller-image {
+  
+  background-clolor: white;
+  margin: auto;
+}
+  h2 {
+    font-size: 16px;
+    margin: auto;
+  }
+  h3
+  {
+    font-size:18px;
+  }
+  h4 {
+    font-size: 16px;
+  }
+  h5{
+    font-size: 16px;
+  }
+  h6{
+    font-size: 16px;
+  }
+tribute-link {
+
+    font-size: 16px;
+  }
+.white-background {
+  background-color: white;
+}
+#img-div{
+   box-shadow: 0 10px 20px rgb(0,0,0.19); 0 6px 6px rgba(0,0,0,0.23);
+  background-color: silver;
+}
+
+img{   
+ max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+</style>
